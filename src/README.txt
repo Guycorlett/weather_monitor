@@ -1,0 +1,1 @@
+This is a weather monitoring app for the Raspberry Pi written in Java
