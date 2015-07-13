@@ -1,0 +1,7 @@
+Sort out MySQL max DB size
+Tidy up project package structure (make consistent with standards)
+Perform some unit tests
+Create webserver to host temp graph
+HTML for website
+Create script to start mysql + project on startup
+Interface with measuring electronics
